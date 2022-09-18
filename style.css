@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0px;
+}
+
+.main{
+    width: 100%;
+    background-image: url(4.png);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.discord{
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 100px;
+    height: 36px;
+    background-color: #404EED;
+    color: white;
+}
+
+.header{
+    font-size: 36px;
+    margin-left: 860px;
+}
+
+.exploit{
+    margin-left: 640px;
+    border: none;
+    border-radius: 9px;
+}
+
+.download{
+    margin-left: 845px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 100px;
+    height: 36px;
+    background-color: #404EED;
+    color: white;
+}
+
+.dis{
+    margin-left: 450px;
+    font-size: 30px;
+    color: #404EED;
+}
+
+.dis2{
+    margin-left: 785px;
+    font-size: 30px;
+    color: #404EED;
+}
+
+.Name{
+    color: white;
+    margin: 10px;
+    margin-top: 10px;
+}
+
+.header{
+    color: #404EED;
+}
